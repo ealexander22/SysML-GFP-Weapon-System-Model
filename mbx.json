@@ -1,4 +1,6 @@
 {
 
-	"name": "SysML GFP Weapon System Model"
+	"name": "SysML GFP Weapon System Model",
+	"description":"sysml model of a government furnished weapon system",
+	"repoURL":"https://github.com/ealexander22/SysML-GFP-Weapon-System-Model.git"
 }
